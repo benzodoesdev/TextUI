@@ -1,0 +1,9 @@
+name: TestPL
+api: 3.0.0-ALPHA12
+main: Benzo\Main
+version: 1.9
+author: Benzo
+commands:
+ test:
+  usage: /test
+  description: test plugin

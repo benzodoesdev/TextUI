@@ -5,4 +5,5 @@ projects:
   TextUI:
   Path: ""
   model: default
+  icon: Text-icon.png
   ...

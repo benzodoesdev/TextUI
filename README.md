@@ -1,5 +1,5 @@
 # TextUI
 
-# A basic messgaing plugin where players can message eachother using a unique UI format.
+ A basic messgaing plugin where players can message eachother using a unique UI format.
 
-# Twitter @kiddosaltbub message me if you need help.
+ Twitter @kiddosaltbub message me if you need help.
